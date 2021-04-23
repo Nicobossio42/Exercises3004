@@ -1,0 +1,6 @@
+x = float(input("Introduzca el primer numero: "))
+y = float(input("Introduzca el segundo numero: "))
+print("La suma es: ", x + y)
+print("La resta es: ", x - y)
+print("El producto es: ", x * y)
+print("El residuo es: ", x / y)
